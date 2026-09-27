@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them as below."
+title: "Verification scripts for graceful and rho-labelings of torus grids"
+authors:
+  - family-names: Marashdeh
+    given-names: Mohammad F.
+    affiliation: "Mutah University, Karak, Jordan"
+    email: marashdeh@mutah.edu.jo
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+type: software
+keywords:
+  - graceful labeling
+  - rho-labeling
+  - torus grid
+  - cyclic graph decomposition
